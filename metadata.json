@@ -1,0 +1,5 @@
+{
+  "name": "美股與台股股市分析工具",
+  "description": "專業的美股與台股分析工具，提供 6 個月的成交量趨勢以及詳細的前一交易日價格指標，並結合 Google 搜尋即時數據。",
+  "requestFramePermissions": []
+}
